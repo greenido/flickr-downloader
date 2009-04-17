@@ -1,0 +1,4 @@
+*.properties
+etc/
+FlickrDownUI/build/
+bin/
